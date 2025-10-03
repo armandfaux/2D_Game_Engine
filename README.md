@@ -1,5 +1,7 @@
-# Kaelinn Engine - v-1.0
-Kaelinn Engine is a 2D engine for building games and simulations
+# 2D Game Engine - v-1.0
+A 2D engine for building games and simulations
+Developed in C++
+Includes networking tools
 
 ## Prerequisites
 The engine is fully self-contained which means you don't need to worry about the dependencies.
@@ -11,7 +13,7 @@ See : https://docs.conan.io/2/installation.html
 #### - Armand Faux - Lead developer, Project manager
     armand.faux@epitech.eu
 
-### *Contributors (until v-1.0)* :
+### *Contributors* :
 #### - Hugo Eschlimann - Devops engineer
     hugo.eschlimann@epitech.eu
 #### - Luca Orelli - Network developer
