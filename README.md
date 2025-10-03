@@ -1,6 +1,6 @@
 # 2D Game Engine - v-1.0
-A 2D engine for building games and simulations\n
-Developed in C++\n
+A 2D engine for building games and simulations<br />
+Developed in C++<br />
 Includes networking tools
 
 ## Prerequisites
